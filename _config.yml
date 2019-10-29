@@ -1,0 +1,13 @@
+title: Cadix Development Team
+email: contact@cadixdev.org
+description: >-
+  We develop software for examining Java software, in both binary and
+  source form - with a particular focus on obfuscated software.
+baseurl: "/"
+url: "https://www.cadixdev.org"
+github_username: CadixDev
+
+# Build settings
+theme: minima
+plugins:
+  - jekyll-feed
