@@ -26,5 +26,7 @@ possible.
 ### Developers
 
 - [Max Roncace](https://github.com/caseif)
+- [Jadon Fowler](https://github.com/phase)
+- [Kyle Wood](https://github.com/DemonWav)
 
 [work with our upstream projects]: /about/oss-contrib/
