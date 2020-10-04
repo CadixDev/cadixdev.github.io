@@ -2,7 +2,7 @@
 layout: post
 title:  Gradle Plugins
 date:   2020-05-28 20:30:00 +0100
-categories: bombe release
+categories: gradle update
 ---
 
 A few weaks ago myself and Minecrell moved our collective Gradle plugins into the Cadix
